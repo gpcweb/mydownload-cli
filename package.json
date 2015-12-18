@@ -1,0 +1,16 @@
+{
+  "name": "mydownload-cli",
+  "version": "1.0.0",
+  "description": "Download files",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Poblete",
+  "license": "MIT"
+}
